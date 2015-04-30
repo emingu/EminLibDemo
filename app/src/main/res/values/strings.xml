@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EminLibDemo</string>
+    <string name="title_productlist">产品</string>
+    <string name="title_orderlist">订单</string>
+    <string name="title_clicklogin">登录</string>
+    <string name="title_usercenter">个人信息</string>
+    <string name="title_other">其他</string>
+    <string name="title_share">分享</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
