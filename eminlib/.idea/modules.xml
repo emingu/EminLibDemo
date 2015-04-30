@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EminLibDemo.iml" filepath="$PROJECT_DIR$/../EminLibDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EminLibDemo.iml" filepath="$PROJECT_DIR$/../EminLibDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eminlib.iml" filepath="$PROJECT_DIR$/eminlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eminlib.iml" filepath="$PROJECT_DIR$/eminlib.iml" />
+    </modules>
+  </component>
+</project>
+

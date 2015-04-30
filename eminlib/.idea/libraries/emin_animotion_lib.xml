@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="emin_animotion_lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/libs/emin_animotion_lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
